@@ -1,9 +1,10 @@
 {
-  "name": "connect-cors",
+  "name": "connect-cors-ljfh001-fork",
   "description": "CORS middleware for connect",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "main": "./lib/connect-cors.js",
-  "contributors": [ 
-    { "name": "Antono Vasiljev", "email": "antono.vasiljev@gmail.com" }
+  "contributors": [
+    { "name": "Antono Vasiljev", "email": "antono.vasiljev@gmail.com" },
+    { "name": "Jon Li", "email": "ljfh001@gmail.com" },
   ]
 }
